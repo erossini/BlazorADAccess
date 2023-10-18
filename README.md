@@ -16,5 +16,4 @@
 
 ![image](https://github.com/erossini/BlazorADAccess/assets/9497415/0023747b-11e3-4b85-8473-30544f78f4a2)
 
-![image](https://github.com/erossini/BlazorADAccess/assets/9497415/c298c0f3-8cd6-40fd-b910-4806af96a54d)
-
+![image](https://github.com/erossini/BlazorADAccess/assets/9497415/54287123-b123-4881-948e-c95628ce2bbc)
