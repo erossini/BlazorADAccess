@@ -6,7 +6,7 @@
 
 ![image](https://github.com/erossini/BlazorADAccess/assets/9497415/5fb4be3a-b5c5-4dba-8cfa-27f3b34787f4)
 
-![image](https://github.com/erossini/BlazorADAccess/assets/9497415/84c57c5b-4520-4c9f-996c-fce2f6bda70e)
+![image](https://github.com/erossini/BlazorADAccess/assets/9497415/1d3692c0-0265-4496-a65b-87572f6a6d08)
 
 ![image](https://github.com/erossini/BlazorADAccess/assets/9497415/6e8b078e-6654-46d2-9291-78a0a74b42fb)
 
